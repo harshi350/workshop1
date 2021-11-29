@@ -30,6 +30,5 @@ sno|Name
 1|Sri Lakshmi
 2|Giritha
 3|Harshitha
-4|Susmitha
 
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+EMOJICODE:relaxed:
